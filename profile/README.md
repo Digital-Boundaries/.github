@@ -1,6 +1,6 @@
 # Welcome to Digital Boundaries!
 
-**Translation**: English | [中文](link)
+**Translation**: English | [中文](https://github.com/Digital-Boundaries/.github/blob/main/profile/README_zh.md)
 
 ## Who We Are
 **Digital Boundaries** is a team dedicated to developing lightweight, user-friendly software. Our goal is to create tools that enhance productivity, foster innovation, and simplify everyday tasks.
